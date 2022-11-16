@@ -47404,7 +47404,7 @@ return A.M($async$zK,r)}}
 A.a9D.prototype={
 a3y(){var s=this.a,r=s.HX$
 r===$&&A.b()
-r.qD$="http://172.16.93.141:9050/v1/monitor/"
+r.qD$="https://webapidev.djsystem.com.br/api/v1/monitor/"
 s=s.qC$
 s.E(s,new A.Ew(new A.aR(Date.now(),!1),new A.aR(Date.now(),!1)))}}
 A.Ew.prototype={
